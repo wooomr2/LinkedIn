@@ -6,4 +6,4 @@
 
 - Recoil
 - nextAuth
-- UI연습 중점 / framer-Motion 사용
+- UI연습 중점 / framer-Motion 사용 / darkMode 구현
